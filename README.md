@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShivanyaDEV
+- 👋 Hi, I’m @ShivanyaMishra
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on big & intersting projects
