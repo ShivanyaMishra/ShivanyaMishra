@@ -1,34 +1,23 @@
-# 👋 Hi there, I’m Shivanya Mishra
+## Shivanya Mishra  
+**Data Analyst | Python • SQL • Excel • Power BI | Data Automation & Reporting**
 
-🎓 I'm currently pursuing my MCA and working as a **Data Tool Developer**, passionate about turning raw data into clean insights using Python.
+I build data automation tools and analytical dashboards using **Python and Excel** to clean, analyze, and transform raw data into actionable business insights.
 
-🧠 I love building automation tools, cleaning messy datasets, and creating smart scripts to save time and effort.
+### 🔧 Tech Stack
+- **Python:** pandas, NumPy, openpyxl, automation scripts  
+- **Excel:** Pivot Tables, VLOOKUP/XLOOKUP, Excel automation  
+- **Data & BI:** Power BI (Dashboards, KPI tracking)  
+- **Databases:** MySQL, SQL queries  
+- **Backend & Web:** Flask, HTML, CSS, JavaScript (basic)
 
-🔧 Technologies I work with:
-- Python (pandas, openpyxl, datetime, os)
-- Excel Automation
-- Power BI (Dashboards, KPI tracking)
-- MySQL (basics)
-- Flask (backend scripting)
-- HTML, CSS, JavaScript (basic web)
+### 🚀 Key Projects
+- **DataBook** – Python + Excel tool to clean, standardize, and format CSV/Excel data  
+- **Expense Tracker** – Excel + Python + SQL based cost tracking and reporting system  
+- **FileNavigator** – Automated file sorter with structured data handling  
+- **SCORPIO** – Flask-based chatbot & voice-enabled automation assistant
 
-💼 My favorite projects:
-- **Databook** – Excel data parser + WhatsApp message formatter  
-- **FileNavigator** – Auto file sorter with secure vault  
-- **Expense Tracker** – Python tool to log, clean, and format expenses  
-- **SCORPIO** – Chatbot + voice assistant (Flask-based)
+### 📫 Connect
+- Email: shivanyamishra84@gmail.com  
+- LinkedIn: https://linkedin.com/in/shivanya-mishra-3452312a5  
 
-📫 You can reach me at:  
-📧 [shivanyamishra84@gmail.com](mailto:shivanyamishra84@gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/shivanya-mishra-3452312a5) 
-
-🌱 Always learning and open to collaborations on Python, data automation, or analytics-based projects.
-
-⚡ Fun fact: I love building real-world tools that solve everyday problems!
-
----
-
-<!---
-ShivanyaMishra/ShivanyaMishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Open to **Data Analyst / Analyst** roles and collaborations in data automation and reporting.
