@@ -18,6 +18,7 @@ I build data automation tools and analytical dashboards using **Python and Excel
 
 ### 📫 Connect
 - Email: shivanyamishra84@gmail.com  
-- LinkedIn: https://linkedin.com/in/shivanya-mishra-3452312a5  
+- LinkedIn: https://linkedin.com/in/shivanya-mishra-3452312a5
+- Portfolio:https://shivanya-mishra-data-analyst-portfolio.ai.studio
 
 Open to **Data Analyst / Analyst** roles and collaborations in data automation and reporting.
